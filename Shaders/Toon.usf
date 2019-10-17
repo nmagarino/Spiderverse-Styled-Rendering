@@ -1,0 +1,27 @@
+static const int SceneTextureId = 14;
+float2 TexelSize = View.ViewSizeAndInvSize.zw;
+float2 UV = GetDefaultSceneTextureUV(Parameters, SceneTextureId);
+float3 PixelSum = float3(0, 0, 0);
+float WeightSum = 0;
+float3 color;
+
+float3 diffuseCol = SceneTextureLookup(UV, 2, 0).rgb;
+float3 actualCol = SceneTextureLookup(UV, 14, 0).rgb;
+float3 worldNorm = SceneTextureLookup(UV, 8, 0).rgb;
+
+float intensity = (actualCol.r * 0.21) + (actualCol.g * 0.72) + (0.07 * actualCol.b);
+
+// Discretize
+if (intensity > 0.8)
+	color = float3(1.0, 1.0, 1.0) * diffuseCol;
+else if (intensity > 0.6)
+	color = float3(0.8, 0.8, 0.8) * diffuseCol;
+else if (intensity > 0.4)
+	color = float3(0.6, 0.6, 0.6) * diffuseCol;
+else if (intensity > 0.2)
+	color = float3(0.4, 0.4, 0.4) * diffuseCol;
+else
+	color = float3(0.2, 0.2, 0.2) * diffuseCol;
+
+
+return color;

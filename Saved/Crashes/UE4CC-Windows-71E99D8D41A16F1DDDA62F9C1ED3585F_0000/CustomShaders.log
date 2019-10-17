@@ -1,0 +1,1108 @@
+﻿Log file open, 09/27/19 01:38:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CustomShaders
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(246152846) SRandInit(246152846).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274195
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.560s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am MSI (192.168.137.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.09.27-05.38.12:673][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-05.38.12:673][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.27-05.38.12:720][  0]LogInit: Computer: MSI
+[2019.09.27-05.38.12:720][  0]LogInit: User: nmaga
+[2019.09.27-05.38.12:720][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.27-05.38.12:720][  0]LogInit: High frequency timer resolution =2.250002 MHz
+[2019.09.27-05.38.12:720][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.09.27-05.38.12:720][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.27-05.38.12:720][  0]LogMemory: Process Physical Memory: 274.43 MB used, 274.43 MB peak
+[2019.09.27-05.38.12:720][  0]LogMemory: Process Virtual Memory: 264.83 MB used, 264.83 MB peak
+[2019.09.27-05.38.12:720][  0]LogMemory: Physical Memory: 4944.70 MB used,  3094.71 MB free, 8039.41 MB total
+[2019.09.27-05.38.12:720][  0]LogMemory: Virtual Memory: 4795.59 MB used,  3094.71 MB free, 134217728.00 MB total
+[2019.09.27-05.38.12:743][  0]LogInit: Using OS detected language (en-US).
+[2019.09.27-05.38.12:743][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.27-05.38.12:985][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.27-05.38.13:534][  0]LogStreaming: Display: Took  0.792s to EndInitTextLocalization.
+[2019.09.27-05.38.13:534][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.27-05.38.13:567][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.27-05.38.13:567][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.27-05.38.18:374][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.27-05.38.18:440][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.09.27-05.38.18:440][  0]LogD3D11RHI:       1979/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.27-05.38.18:456][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.09.27-05.38.18:456][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.09.27-05.38.18:458][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.27-05.38.18:458][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.27-05.38.18:458][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.27-05.38.18:479][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.27-05.38.18:479][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.09.27-05.38.18:479][  0]LogWindows: EnumDisplayDevices:
+[2019.09.27-05.38.18:479][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.09.27-05.38.18:479][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.09.27-05.38.18:479][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.09.27-05.38.18:479][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.27-05.38.18:479][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.09.27-05.38.18:479][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.27-05.38.18:479][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.27-05.38.18:479][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2019.09.27-05.38.18:514][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.09.27-05.38.18:514][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.09.27-05.38.18:514][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.27-05.38.18:527][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.27-05.38.18:528][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Intermediate/Shaders/WorkingDirectory/20016/).
+[2019.09.27-05.38.18:528][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nmaga/AppData/Local/Temp/UnrealShaderWorkingDir/3C48F0184F03ECF38C6DE0AA9A0CB1A0/'.
+[2019.09.27-05.38.19:253][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.09.27-05.38.19:265][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.09.27-05.38.19:278][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.09.27-05.38.19:290][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.09.27-05.38.19:364][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.09.27-05.38.19:376][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.09.27-05.38.19:388][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.09.27-05.38.19:400][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.09.27-05.38.19:406][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.09.27-05.38.19:416][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.09.27-05.38.19:427][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.09.27-05.38.19:437][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.09.27-05.38.19:447][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.09.27-05.38.19:457][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.09.27-05.38.19:468][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.09.27-05.38.19:491][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.09.27-05.38.19:491][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.09.27-05.38.19:531][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.27-05.38.19:532][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.09.27-05.38.19:603][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.27-05.38.19:613][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.27-05.38.19:623][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.09.27-05.38.19:632][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.09.27-05.38.19:642][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.09.27-05.38.19:657][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.09.27-05.38.19:657][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.27-05.38.19:785][  0]LogXGEController: Cleaning working directory: C:/Users/nmaga/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.27-05.38.19:785][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.27-05.38.19:785][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.27-05.38.19:785][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.27-05.38.20:407][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.27-05.38.22:055][  0]LogDerivedDataCache: Loaded boot cache 1.65s 74MB C:/Users/nmaga/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.09.27-05.38.22:055][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nmaga/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.09.27-05.38.22:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.27-05.38.22:056][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.27-05.38.22:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.27-05.38.22:056][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.27-05.38.22:070][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.27-05.38.22:082][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nmaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.27-05.38.22:082][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.27-05.38.22:082][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.27-05.38.22:091][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.27-05.38.22:092][  0]LogSlate: Using Freetype 2.6.0
+[2019.09.27-05.38.22:092][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.27-05.38.22:092][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.27-05.38.22:219][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2019.09.27-05.38.22:461][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-05.38.22:597][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.09.27-05.38.22:600][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.09.27-05.38.22:600][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.27-05.38.22:600][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.09.27-05.38.22:600][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.09.27-05.38.22:600][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.09.27-05.38.22:634][  0]LogNetVersion: CustomShaders , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1926741155)
+[2019.09.27-05.38.23:058][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.057077 seconds
+[2019.09.27-05.38.23:063][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.09.27-05.38.23:063][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.09.27-05.38.23:063][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.27-05.38.49:625][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.27-05.38.49:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.27-05.38.50:338][  0]SourceControl: Source control is disabled
+[2019.09.27-05.38.50:338][  0]SourceControl: Source control is disabled
+[2019.09.27-05.38.50:362][  0]SourceControl: Source control is disabled
+[2019.09.27-05.38.50:383][  0]SourceControl: Source control is disabled
+[2019.09.27-05.38.51:069][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.27-05.38.51:238][  0]LogOcInput: OculusInput pre-init called
+[2019.09.27-05.38.51:445][  0]LogEngine: Initializing Engine...
+[2019.09.27-05.38.51:446][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-05.38.51:447][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.27-05.38.51:447][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.27-05.38.51:652][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.27-05.38.51:711][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-05.38.51:914][  0]LogInit: FAudioDevice initialized.
+[2019.09.27-05.38.52:748][  0]LogDerivedDataCache: Saved boot cache 0.83s 74MB C:/Users/nmaga/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.09.27-05.38.52:763][  0]LogInit: Texture streaming: Enabled
+[2019.09.27-05.38.52:783][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.27-05.38.52:783][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={47EA9E7E-4901-C263-8962-3DB04D5EA9A0}
+[2019.09.27-05.38.52:797][  0]LogInit: Transaction tracking system initialized
+[2019.09.27-05.38.52:822][  0]BlueprintLog: New page: Editor Load
+[2019.09.27-05.38.52:898][  0]LocalizationService: Localization service is disabled
+[2019.09.27-05.38.53:069][  0]LogConsoleResponse: Display: 
+[2019.09.27-05.38.53:210][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.27-05.38.53:210][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.27-05.38.53:210][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.27-05.38.53:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.27-05.38.53:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.27-05.38.53:947][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/' took 0.01s
+[2019.09.27-05.38.54:515][  0]SourceControl: Source control is disabled
+[2019.09.27-05.38.54:515][  0]Cmd: MAP LOAD FILE="D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/Desaturate.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-05.38.54:515][  0]LightingResults: New page: Lighting Build
+[2019.09.27-05.38.54:518][  0]MapCheck: New page: Map Check
+[2019.09.27-05.38.54:518][  0]LightingResults: New page: Lighting Build
+[2019.09.27-05.38.54:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026b4e412858, Size=4, Default__Desaturate_C Function /Game/CustomShaders/Maps/Desaturate.Desaturate_C:ExecuteUbergraph_Desaturate
+[2019.09.27-05.38.54:614][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026b4e412858, Size=4
+[2019.09.27-05.38.54:615][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026b4e412858, Size=4, Default__Desaturate_C Function /Engine/Transient.REINST_Desaturate_C_5:ExecuteUbergraph_Desaturate
+[2019.09.27-05.38.54:615][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026b4e4129f0, Size=4, Default__Desaturate_C Function /Game/CustomShaders/Maps/Desaturate.Desaturate_C:ExecuteUbergraph_Desaturate
+[2019.09.27-05.38.54:755][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [42.180851ms] /Game/CustomShaders/Meshes/SK_Viking.SK_Viking
+[2019.09.27-05.38.54:813][  0]LogAIModule: Creating AISystem for world Desaturate
+[2019.09.27-05.38.54:819][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-05.38.54:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026b4e412858, Size=4
+[2019.09.27-05.38.54:829][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-05.38.54:886][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.513ms to complete.
+[2019.09.27-05.38.54:886][  0]LogFileHelpers: Loading map 'Desaturate' took 0.371
+[2019.09.27-05.38.55:103][  0]LogCollectionManager: Loaded 0 collections in 0.002055 seconds
+[2019.09.27-05.38.55:145][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Collections/' took 0.01s
+[2019.09.27-05.38.55:145][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/Developers/nmaga/Collections/' took 0.01s
+[2019.09.27-05.38.55:145][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/Collections/' took 0.01s
+[2019.09.27-05.38.55:145][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.27-05.38.55:153][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2019.09.27-05.38.55:159][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-05.38.56:292][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-05.38.56:297][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.27-05.38.56:344][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-05.38.56:344][  0]LogLoad: (Engine Initialization) Total time: 51.62 seconds
+[2019.09.27-05.38.56:344][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.27-05.38.56:353][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.27-05.38.56:374][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.27-05.38.56:375][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.27-05.38.56:377][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.27-05.38.56:400][  0]LogSlate: Took 0.018230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.27-05.38.56:505][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-05.38.56:554][  1]LogRenderer: Reallocating scene render targets to support 800x360 Format 10 NumSamples 1 (Frame:1).
+[2019.09.27-05.38.56:697][  1]LogAssetRegistry: Asset discovery search completed in 34.5008 seconds
+[2019.09.27-05.38.56:698][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.27-05.38.56:698][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.09.27-05.38.57:373][ 65]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-05.39.27:994][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-05.39.30:556][ 34]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Viking)
+[2019.09.27-05.39.31:198][ 34]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Viking)
+[2019.09.27-05.39.35:152][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-05.39.38:604][818]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.39.38:623][818]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.39.38:623][818]LogAIModule: Creating AISystem for world GaussianBlur
+[2019.09.27-05.39.38:641][818]Cmd: MAP LOAD FILE="D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-05.39.38:641][818]LightingResults: New page: Lighting Build
+[2019.09.27-05.39.38:659][818]LoadErrors: New page: Loading map: GaussianBlur.umap
+[2019.09.27-05.39.38:669][818]MapCheck: New page: Map Check
+[2019.09.27-05.39.38:669][818]LightingResults: New page: Lighting Build
+[2019.09.27-05.39.38:682][818]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026b4e4129f0, Size=4
+[2019.09.27-05.39.38:685][818]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-05.39.38:722][818]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-05.39.38:793][818]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.32ms to complete.
+[2019.09.27-05.39.38:793][818]LogFileHelpers: Loading map 'GaussianBlur' took 0.153
+[2019.09.27-05.40.54:125][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-05.41.27:528][846]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.27:810][846]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.27:817][846]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.27:826][846]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.41.27:826][846]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.41.27:826][846]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.27:826][846]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.27:851][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2019.09.27-05.41.27:852][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_1, compiling. 
+[2019.09.27-05.41.27:864][846]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.27-05.41.28:084][849]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.27-05.41.28:766][875]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.29:017][883]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.29:281][892]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.41.29:422][897]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.41.29:422][897]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.41.29:422][897]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.41.39:717][606]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.39:738][606]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.41.39:738][606]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.41.39:738][606]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.39:738][606]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.40:091][623]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.41.40:753][651]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.41.40:753][651]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.41.40:753][651]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.41.41:014][667]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.41:035][667]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.41.41:035][667]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.41.41:035][667]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.41:035][667]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.41:396][684]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.41.43:637][834]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.43:646][834]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.41.43:646][834]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.41.43:646][834]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.43:646][834]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.43:996][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.41.44:216][858]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.44:217][858]LogMaterial: Warning: /Engine/Transient.PP_GaussianBlur (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.27-05.41.44:217][858]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.09.27-05.41.44:233][858]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.44:233][858]LogMaterial: Warning: /Engine/Transient.PP_GaussianBlur (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.27-05.41.44:233][858]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.09.27-05.41.44:237][858]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.44:238][858]LogMaterial: Warning: /Engine/Transient.PP_GaussianBlur (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.27-05.41.44:238][858]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.09.27-05.41.44:244][858]MaterialEditorStats: Error: [SM5] SceneTexture expressions cannot be used in opaque materials
+[2019.09.27-05.41.47:938][104]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.47:939][104]LogMaterial: Warning: /Engine/Transient.PP_GaussianBlur (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.27-05.41.47:939][104]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.09.27-05.41.49:281][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.27-05.41.52:729][361]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.52:729][361]LogMaterial: Warning: /Engine/Transient.PP_GaussianBlur (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.27-05.41.52:729][361]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.09.27-05.41.52:735][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-05.41.53:836][448]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.53:846][448]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.41.53:846][448]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.41.53:846][448]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.53:846][448]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.53:848][448]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.53:852][448]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.41.54:170][458]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.41.54:677][475]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.41.54:711][476]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.41.54:838][480]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.41.55:055][489]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.41.55:546][511]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.41.55:547][511]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.41.55:547][511]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.42.20:865][369]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.42.20:903][370]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.42.20:903][370]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.42.20:903][370]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.42.20:903][370]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.42.21:928][424]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.42.22:527][450]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.42.22:527][450]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.42.22:527][450]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.42.23:365][507]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.42.23:410][508]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.42.23:410][508]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.42.23:410][508]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.42.23:410][508]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.42.23:788][524]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.42.24:349][549]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.42.24:349][549]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.42.24:349][549]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.42.40:059][532]LogMaterial: Missing cached shader map for material M_Viking, compiling. 
+[2019.09.27-05.42.40:210][532]LogMaterial: Missing cached shader map for material M_Viking, compiling. 
+[2019.09.27-05.42.40:225][532]LogMaterial: Missing cached shader map for material M_Viking, compiling. 
+[2019.09.27-05.42.40:246][532]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.09.27-05.42.40:247][532]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.09.27-05.42.40:247][532]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.09.27-05.42.40:247][532]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.09.27-05.42.40:272][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.27-05.42.40:565][541]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.09.27-05.42.40:589][542]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.09.27-05.42.40:610][543]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.09.27-05.42.40:614][543]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.09.27-05.42.40:860][553]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.09.27-05.42.40:916][555]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.09.27-05.42.40:916][555]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.27-05.42.41:230][566]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.09.27-05.42.41:295][568]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.09.27-05.42.41:506][576]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.09.27-05.42.41:565][578]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.09.27-05.42.41:655][582]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.09.27-05.42.41:937][594]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.09.27-05.42.42:040][599]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.09.27-05.42.42:062][600]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.09.27-05.42.42:143][604]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.09.27-05.42.42:315][612]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-05.42.42:413][616]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.09.27-05.42.42:438][617]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.09.27-05.42.42:507][620]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.09.27-05.42.42:647][626]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.09.27-05.42.42:770][631]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.09.27-05.42.42:793][632]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.09.27-05.42.43:146][647]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.09.27-05.42.43:229][651]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.27-05.42.43:324][656]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.27-05.42.43:463][662]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-05.42.43:650][669]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.27-05.42.43:872][677]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.27-05.42.43:872][677]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.27-05.42.44:041][683]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.27-05.42.44:074][685]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.27-05.42.44:235][691]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.27-05.42.44:264][692]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.27-05.42.44:394][698]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.27-05.42.44:413][699]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-05.42.44:547][705]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.42.44:569][706]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.27-05.42.44:676][711]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.27-05.42.44:902][721]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.27-05.42.44:947][723]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.27-05.42.45:089][730]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.42.45:319][739]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.42.45:319][739]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.42.45:603][751]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.42.45:648][753]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-05.42.47:243][864]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.09.27-05.42.47:243][864]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.09.27-05.42.47:243][864]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.09.27-05.42.47:243][864]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-05.42.47:243][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.27-05.42.50:817][ 19]LogSlate: Window 'Message' being destroyed
+[2019.09.27-05.46.35:473][943]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-05.46.36:928][943]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.46.36:938][943]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.46.36:938][943]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.46.36:938][943]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.46.36:938][943]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.46.36:966][943]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.46.36:977][943]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.46.37:024][943]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-05.46.37:756][978]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-05.46.37:880][983]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.46.39:891][ 53]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.46.39:891][ 53]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.46.39:891][ 53]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.46.48:242][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-05.49.39:309][ 73]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomShaders/Maps/GaussianBlur' took 0.010
+[2019.09.27-05.49.39:310][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomShaders/Materials/PP_GaussianBlur] ([1] browsable assets)...
+[2019.09.27-05.49.39:341][ 73]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CustomShaders/Materials/PP_GaussianBlur.PP_GaussianBlur]
+[2019.09.27-05.49.39:342][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomShaders/Materials/PP_GaussianBlur]
+[2019.09.27-05.49.39:423][ 73]LogSavePackage: Save=75.57ms
+[2019.09.27-05.49.39:423][ 73]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/PP_GaussianBlur_Auto13ABE561041E123126AA16A96F7DBB93A.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/PP_GaussianBlur_Auto1.uasset'
+[2019.09.27-05.49.39:424][ 73]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/PP_GaussianBlur_Auto1.uasset
+[2019.09.27-05.49.39:424][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomShaders/Materials/ToonShader] ([1] browsable assets)...
+[2019.09.27-05.49.39:453][ 73]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CustomShaders/Materials/ToonShader.ToonShader]
+[2019.09.27-05.49.39:453][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomShaders/Materials/ToonShader]
+[2019.09.27-05.49.39:505][ 73]LogSavePackage: Save=49.73ms
+[2019.09.27-05.49.39:505][ 73]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/ToonShader_Auto1EC9E69E748D19E5E84C927BBC76B1C46.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/ToonShader_Auto1.uasset'
+[2019.09.27-05.49.39:505][ 73]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/ToonShader_Auto1.uasset
+[2019.09.27-05.49.39:505][ 73]LogFileHelpers: Auto-saving content packages took 0.196
+[2019.09.27-05.57.00:768][536]LogMaterialEditor: Saving and Compiling material PP_GaussianBlur
+[2019.09.27-05.57.00:822][536]LogSavePackage: Save=6.93ms
+[2019.09.27-05.57.00:822][536]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/PP_GaussianBlur7549172E405F0CEDA3A1CF8E829D227D.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Materials/PP_GaussianBlur.uasset'
+[2019.09.27-05.57.00:826][536]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Materials/PP_GaussianBlur.uasset
+[2019.09.27-05.57.14:272][326]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-05.57.14:727][326]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.57.14:741][326]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.57.14:741][326]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.57.14:741][326]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.57.14:741][326]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.57.14:759][326]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.57.14:771][326]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.57.14:788][326]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-05.57.15:640][370]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-05.57.15:698][372]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.57.17:401][468]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.57.17:401][468]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.57.17:401][468]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.57.42:668][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-05.57.47:380][734]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-05.57.47:844][734]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.57.47:855][734]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.57.47:855][734]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.57.47:855][734]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.57.47:855][734]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.57.47:876][734]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.57.47:885][734]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.57.47:898][734]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-05.57.48:756][778]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-05.57.48:780][779]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.57.50:531][875]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.57.50:531][875]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.57.50:531][875]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.58.21:889][121]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-05.58.22:346][121]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.58.22:361][121]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.58.22:361][121]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.58.22:361][121]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.58.22:362][121]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.58.22:380][121]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.58.22:390][121]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.58.22:405][121]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-05.58.23:289][164]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-05.58.23:309][165]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.58.24:990][259]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.58.24:990][259]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.58.24:990][259]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-05.59.22:451][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-05.59.24:450][381]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-05.59.24:911][381]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.59.24:930][381]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-05.59.24:930][381]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-05.59.24:930][381]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-05.59.24:930][381]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-05.59.24:948][381]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.59.24:960][381]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-05.59.24:978][381]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-05.59.25:880][425]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-05.59.25:898][426]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-05.59.27:513][516]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-05.59.27:513][516]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-05.59.27:513][516]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.00.22:267][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.09.27-06.00.24:280][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.00.24:372][750]LogMaterialEditor: Saving and Compiling material PP_GaussianBlur
+[2019.09.27-06.00.24:486][750]LogSavePackage: Save=12.69ms
+[2019.09.27-06.00.24:486][750]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/PP_GaussianBlurA567D8FD47234470EE12D29BCB076210.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Materials/PP_GaussianBlur.uasset'
+[2019.09.27-06.00.24:487][750]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Materials/PP_GaussianBlur.uasset
+[2019.09.27-06.00.28:484][954]LogSavePackage: Save=21.50ms
+[2019.09.27-06.00.28:484][954]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlur4E5DD2A9423C121B388F4A8784136240.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap'
+[2019.09.27-06.00.28:485][954]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap
+[2019.09.27-06.00.28:618][954]LogSavePackage: Save=6.43ms
+[2019.09.27-06.00.28:618][954]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlur_BuiltData4D1AC4A8440257A7F8C44FB6CE1F7539.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset'
+[2019.09.27-06.00.28:619][954]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset
+[2019.09.27-06.00.32:854][210]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.00.33:315][210]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.00.33:326][210]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.00.33:326][210]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.00.33:326][210]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.00.33:326][210]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.00.33:350][210]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.00.33:364][210]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.00.33:416][210]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.00.34:211][246]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.00.34:236][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.00.35:970][344]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.00.35:970][344]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.00.35:970][344]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.02.06:463][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.02.07:393][890]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.02.07:878][890]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.02.07:898][890]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.02.07:898][890]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.02.07:898][890]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.02.07:898][890]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.02.07:909][890]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.02.07:918][890]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.02.07:932][890]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.02.08:832][932]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.02.08:863][933]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.02.10:729][ 30]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.02.10:729][ 30]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.02.10:729][ 30]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.03.14:779][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.03.15:861][879]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.03.15:883][879]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.03.15:883][879]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.03.15:883][879]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.03.15:883][879]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.03.16:746][926]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.03.16:958][938]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.03.16:963][938]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.03.16:971][938]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.03.16:971][938]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.03.16:971][938]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.03.16:971][938]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.03.17:306][953]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.03.17:450][961]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.03.17:450][961]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.03.17:450][961]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.03.22:494][253]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.03.22:956][253]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.03.22:967][253]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.03.22:967][253]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.03.22:967][253]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.03.22:967][253]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.03.22:992][253]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.03.23:006][253]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.03.23:025][253]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.03.23:338][262]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.03.23:367][263]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.03.25:069][357]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.03.25:069][357]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.03.25:069][357]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.05.40:272][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.05.41:342][516]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.05.41:802][516]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.41:819][516]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.05.41:819][516]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.05.41:819][516]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.05.41:819][516]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.05.41:843][516]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.41:852][516]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.41:866][516]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.05.42:758][558]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.05.42:781][559]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.05.44:449][653]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.05.44:449][653]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.05.44:449][653]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.05.53:927][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.05.54:963][370]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.54:973][370]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.05.54:973][370]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.05.54:973][370]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.05.54:973][370]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.05.55:267][383]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.05.56:338][456]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.56:345][456]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.56:368][457]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.05.56:368][457]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.05.56:368][457]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.05.56:368][457]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.05.56:672][470]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.05.56:813][477]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.05.56:814][477]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.05.56:814][477]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.05.57:268][508]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.05.57:726][508]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.57:741][508]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.05.57:741][508]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.05.57:741][508]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.05.57:741][508]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.05.57:759][508]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.57:773][508]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.05.57:790][508]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.05.58:067][517]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.05.58:095][518]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.05.59:718][607]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.09.27-06.05.59:718][607]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.05.59:718][607]MaterialEditorStats: Texture samplers: 1/16
+[2019.09.27-06.06.21:620][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.06.24:371][168]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.06.24:837][168]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.06.24:852][168]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.06.24:852][168]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.06.24:852][168]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.06.24:852][168]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.06.24:876][168]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.06.24:892][168]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.06.24:907][168]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.06.25:680][202]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.06.25:707][203]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.06.27:430][301]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.06.27:430][301]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.06.27:430][301]MaterialEditorStats: Texture samplers: 2/16
+[2019.09.27-06.06.42:979][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.08.36:951][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.27-06.10.29:137][650]LogSavePackage: Save=81.57ms
+[2019.09.27-06.10.29:137][650]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlur_Auto2D77A38FA4FDEE0DB35FFE2871208F8E9.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Maps/GaussianBlur_Auto2.umap'
+[2019.09.27-06.10.29:137][650]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Maps/GaussianBlur_Auto2.umap
+[2019.09.27-06.10.29:139][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomShaders/Maps/GaussianBlur' took 0.101
+[2019.09.27-06.10.29:139][650]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.101
+[2019.09.27-06.10.29:142][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomShaders/Materials/PP_GaussianBlur] ([1] browsable assets)...
+[2019.09.27-06.10.29:170][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CustomShaders/Materials/PP_GaussianBlur.PP_GaussianBlur]
+[2019.09.27-06.10.29:170][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomShaders/Materials/PP_GaussianBlur]
+[2019.09.27-06.10.29:188][650]LogSavePackage: Save=12.09ms
+[2019.09.27-06.10.29:188][650]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/PP_GaussianBlur_Auto2682F713F4F0C507452BCD18B4740B01C.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/PP_GaussianBlur_Auto2.uasset'
+[2019.09.27-06.10.29:189][650]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/PP_GaussianBlur_Auto2.uasset
+[2019.09.27-06.10.29:189][650]LogFileHelpers: Auto-saving content packages took 0.047
+[2019.09.27-06.15.50:182][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.15.52:598][918]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.15.53:061][918]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.15.53:077][918]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.15.53:077][918]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.15.53:077][918]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.15.53:077][918]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.15.53:098][918]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.15.53:111][918]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.15.53:126][918]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.15.54:014][962]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.15.54:036][963]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.15.55:840][ 64]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.15.55:840][ 64]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.15.55:840][ 64]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.16.23:664][108]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (SK_Viking)
+[2019.09.27-06.16.23:859][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.16.29:335][297]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Viking)
+[2019.09.27-06.16.46:898][475]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.09.27-06.16.55:605][ 49]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Viking)
+[2019.09.27-06.17.07:288][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.17.07:490][788]LogSavePackage: Save=63.52ms
+[2019.09.27-06.17.07:490][788]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlurEE20E4AF48E768849B987C8E762C7C08.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap'
+[2019.09.27-06.17.07:496][788]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap
+[2019.09.27-06.17.07:539][788]LogSavePackage: Save=5.94ms
+[2019.09.27-06.17.07:540][788]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlur_BuiltDataEA6E36264F5E043D1080C99B9CA419AD.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset'
+[2019.09.27-06.17.07:541][788]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset
+[2019.09.27-06.17.10:254][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.17.11:363][  5]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.17.11:854][  5]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.17.11:871][  5]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.17.11:871][  5]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.17.11:871][  5]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.17.11:871][  5]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.17.11:889][  5]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.17.11:898][  5]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.17.11:911][  5]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.17.12:753][ 43]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.17.12:780][ 44]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.17.14:440][138]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.17.14:440][138]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.17.14:440][138]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.18.04:702][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.18.04:782][981]LogMaterialEditor: Saving and Compiling material PP_GaussianBlur
+[2019.09.27-06.18.04:849][981]LogSavePackage: Save=12.85ms
+[2019.09.27-06.18.04:849][981]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/PP_GaussianBlur2C6D03074DC10269B238F08CC85D44CD.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Materials/PP_GaussianBlur.uasset'
+[2019.09.27-06.18.04:851][981]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Materials/PP_GaussianBlur.uasset
+[2019.09.27-06.18.09:934][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.19.35:661][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.27-06.19.42:713][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.19.50:697][267]Cmd: TRANSACTION UNDO
+[2019.09.27-06.19.50:697][267]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.19.50:723][267]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.19.50:732][267]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.19.50:732][267]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.19.50:732][267]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.19.50:732][267]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.19.51:338][317]Cmd: TRANSACTION UNDO
+[2019.09.27-06.19.51:338][317]LogEditorTransaction: Undo Create Actors
+[2019.09.27-06.19.51:433][317]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.19.51:494][317]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.19.51:494][317]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.19.51:496][317]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.19.51:601][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.19.51:821][340]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.19.51:973][353]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.19.51:973][353]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.19.51:973][353]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.19.52:894][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.20.02:042][497]Cmd: TRANSACTION UNDO
+[2019.09.27-06.20.02:043][497]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.20.02:046][497]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.20.02:056][497]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.20.02:056][497]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.20.02:056][497]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.20.02:056][497]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.20.02:375][516]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.20.02:504][524]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.20.02:504][524]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.20.02:504][524]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.20.02:522][525]Cmd: TRANSACTION UNDO
+[2019.09.27-06.20.02:522][525]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.20.02:524][525]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.20.02:534][525]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.20.02:534][525]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.20.02:534][525]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.20.02:534][525]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.20.02:885][552]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.20.03:016][563]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.20.03:016][563]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.20.03:016][563]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.20.03:114][574]Cmd: TRANSACTION UNDO
+[2019.09.27-06.20.03:114][574]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.20.03:117][574]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.20.03:123][574]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.20.03:123][574]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.20.03:123][574]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.20.03:123][574]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.20.03:440][596]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.20.03:556][605]Cmd: TRANSACTION UNDO
+[2019.09.27-06.20.03:557][605]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.20.03:564][605]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.20.03:571][605]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.20.03:571][605]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.20.03:571][605]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.20.03:571][605]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.20.03:892][628]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.20.03:969][635]Cmd: TRANSACTION UNDO
+[2019.09.27-06.20.03:969][635]LogEditorTransaction: Undo Create Actors
+[2019.09.27-06.20.03:997][635]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.20.04:033][635]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.20.04:033][635]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.20.04:033][635]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.20.04:033][635]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.20.04:340][655]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.20.04:469][667]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.20.04:469][667]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.20.04:469][667]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.20.05:503][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.20.15:238][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.20.28:166][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.20.41:192][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.20.57:840][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.21.32:253][263]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Viking)
+[2019.09.27-06.21.47:948][ 16]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.09.27-06.21.49:073][139]Cmd: DELETE
+[2019.09.27-06.21.49:074][139]Cmd: ACTOR DELETE
+[2019.09.27-06.21.49:294][139]LogEditorActor: Deleted Actor: SkyLight
+[2019.09.27-06.21.49:308][139]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.09.27-06.21.52:117][454]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.09.27-06.21.53:167][571]Cmd: DELETE
+[2019.09.27-06.21.53:167][571]Cmd: ACTOR DELETE
+[2019.09.27-06.21.53:169][571]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2019.09.27-06.21.53:174][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.21.59:640][571]LogSlate: Window 'Message' being destroyed
+[2019.09.27-06.21.59:658][571]LogEditorActor: Deleted 0 Actors (6.491 secs)
+[2019.09.27-06.22.04:597][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.22.11:158][794]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2019.09.27-06.22.12:433][794]LogSlate: Window 'Message' being destroyed
+[2019.09.27-06.22.12:438][794]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.09.27-06.22.12:460][794]LogEditorActor: Deleted 1 Actors (1.303 secs)
+[2019.09.27-06.22.14:440][ 18]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.09.27-06.22.25:397][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.23.57:713][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.24.02:024][238]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.24.02:484][238]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.24.02:498][238]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.24.02:498][238]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.24.02:498][238]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.24.02:498][238]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.24.02:517][238]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.24.02:526][238]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.24.02:541][238]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.24.03:473][278]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.24.03:499][279]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.24.04:767][307]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.24.04:767][307]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.24.04:767][307]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.24.11:759][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.25.07:187][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.25.25:648][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.26.53:963][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.26.54:031][674]LogSavePackage: Save=20.11ms
+[2019.09.27-06.26.54:031][674]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlurCBC5BDAE40E2762A70D298999D365FE6.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap'
+[2019.09.27-06.26.54:033][674]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap
+[2019.09.27-06.26.54:077][674]LogSavePackage: Save=15.18ms
+[2019.09.27-06.26.54:077][674]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlur_BuiltData8AACC2904D1A5F67E3112B87CF587374.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset'
+[2019.09.27-06.26.54:078][674]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset
+[2019.09.27-06.26.56:988][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.26.58:718][925]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.26.59:180][925]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.26.59:191][925]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.26.59:191][925]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.26.59:191][925]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.26.59:191][925]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.26.59:217][925]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.26.59:227][925]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.26.59:242][925]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.27.03:250][950]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.27.03:250][950]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.27.03:251][950]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.27.03:251][950]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.27.03:251][950]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.28.36:998][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.28.40:671][915]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.28.41:136][915]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.28.41:148][915]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.28.41:148][915]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.28.41:148][915]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.28.41:148][915]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.28.41:182][915]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.28.41:193][915]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.28.41:207][915]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.28.42:057][949]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.28.42:085][950]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.28.43:942][ 50]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.28.43:942][ 50]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.28.43:942][ 50]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.28.49:802][383]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (SK_Viking)
+[2019.09.27-06.28.49:852][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.28.50:913][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.09.27-06.28.53:583][590]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.09.27-06.30.01:599][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.30.03:763][124]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.30.04:240][124]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.30.04:250][124]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.30.04:250][124]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.30.04:250][124]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.30.04:251][124]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.30.04:276][124]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.30.04:290][124]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.30.04:307][124]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.30.05:127][159]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.30.05:146][160]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.30.07:026][263]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.30.07:026][263]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.30.07:026][263]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.31.32:504][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.31.34:841][934]LogMaterialEditor: Applying material PP_GaussianBlur
+[2019.09.27-06.31.35:307][934]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.31.35:323][934]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.31.35:323][934]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.31.35:323][934]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.31.35:323][934]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.31.35:346][934]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.31.35:356][934]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.31.35:371][934]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.27-06.31.36:281][974]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.27-06.31.36:306][975]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-06.31.37:877][ 38]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.31.37:877][ 38]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.31.37:877][ 38]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.31.48:700][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.33.02:190][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.33.09:272][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.33.52:264][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.34.01:888][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.09.27-06.34.02:417][595]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Viking)
+[2019.09.27-06.34.11:615][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.09.27-06.34.12:481][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.09.27-06.34.25:140][ 89]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.09.27-06.34.29:992][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.34.57:305][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.35.12:257][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.35.27:907][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.35.32:641][404]Cmd: TRANSACTION UNDO
+[2019.09.27-06.35.32:641][404]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.35.32:653][404]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.35.32:662][404]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.35.32:662][404]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.35.32:662][404]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.35.32:662][404]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.35.33:297][451]Cmd: TRANSACTION UNDO
+[2019.09.27-06.35.33:297][451]LogEditorTransaction: Undo Move Actors
+[2019.09.27-06.35.33:303][451]LogMaterial: Missing cached shader map for material PP_GaussianBlur, compiling. 
+[2019.09.27-06.35.33:532][463]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.27-06.35.33:567][465]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.27-06.35.33:598][467]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.27-06.35.33:665][472]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.27-06.35.33:935][487]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.27-06.35.34:067][497]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2019.09.27-06.35.34:067][497]MaterialEditorStats: Vertex shader: 34 instructions
+[2019.09.27-06.35.34:067][497]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.27-06.35.54:615][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.35.54:733][702]LogSavePackage: Save=21.51ms
+[2019.09.27-06.35.54:733][702]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlurD9F7C3204466E661837E29A04535D8CA.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap'
+[2019.09.27-06.35.54:735][702]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur.umap
+[2019.09.27-06.35.54:761][702]LogSavePackage: Save=4.06ms
+[2019.09.27-06.35.54:761][702]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/GaussianBlur_BuiltData63D76847446D7081B6054FADE2D2B15D.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset'
+[2019.09.27-06.35.54:762][702]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Content/CustomShaders/Maps/GaussianBlur_BuiltData.uasset
+[2019.09.27-06.36.04:339][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.36.16:221][ 22]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.09.27-06.36.16:381][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.09.27-06.36.16:404][ 22]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2019.09.27-06.36.17:553][ 22]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.09.27-06.36.17:576][ 23]LogRenderer: Reallocating scene render targets to support 800x372 Format 10 NumSamples 1 (Frame:1).
+[2019.09.27-06.36.22:178][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.36.26:066][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.36.31:638][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.36.42:875][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.43.28:922][410]LogAssetTools: Warning: Failed to import 'D:\Desktop\animancer\animancer\crocodile/crocodile_rig.ma'. Unknown extension 'ma'.
+[2019.09.27-06.43.28:978][410]LogAssetTools: Warning: Failed to import 'D:\Desktop\animancer\animancer\crocodile/croc_lighting.ma'. Unknown extension 'ma'.
+[2019.09.27-06.43.28:985][410]LogAssetTools: Warning: Failed to import 'D:\Desktop\animancer\animancer\crocodile/croc_redshift.ma'. Unknown extension 'ma'.
+[2019.09.27-06.43.29:090][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\animancer\animancer\crocodile/texture/Color.jpg)
+[2019.09.27-06.43.30:923][410]LogTexture: Display: Building textures: Color (AutoDXT, 4096X4096)
+[2019.09.27-06.43.37:700][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\animancer\animancer\crocodile/texture/Displacement.exr)
+[2019.09.27-06.43.38:143][410]LogTexture: Display: Building textures: Displacement (RGBA16F, 2048X2048)
+[2019.09.27-06.43.38:653][410]LogAssetTools: Warning: Failed to import 'D:\Desktop\animancer\animancer\crocodile/texture/GameDisplacement.tif'. Unknown extension 'tif'.
+[2019.09.27-06.43.38:816][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\animancer\animancer\crocodile/texture/Gloss.jpg)
+[2019.09.27-06.43.39:140][410]LogTexture: Display: Building textures: Gloss (AutoDXT, 4096X4096)
+[2019.09.27-06.43.43:139][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\animancer\animancer\crocodile/texture/Normal.jpg)
+[2019.09.27-06.43.43:887][410]LogTexture: Display: Building textures: Normal (BC5, 4096X4096)
+[2019.09.27-06.43.45:267][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\animancer\animancer\crocodile/texture/Spec.jpg)
+[2019.09.27-06.43.45:624][410]LogTexture: Display: Building textures: Spec (AutoDXT, 4096X4096)
+[2019.09.27-06.43.49:217][410]LogAssetTools: Warning: Failed to import 'D:\Desktop\animancer\animancer\crocodile/workspace.mel'. Unknown extension 'mel'.
+[2019.09.27-06.43.51:183][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-06.44.18:051][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-06.45.56:488][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomShaders/Maps/GaussianBlur' took 0.629
+[2019.09.27-06.45.56:636][626]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomShaders/Materials/PP_GaussianBlur] ([1] browsable assets)...
+[2019.09.27-06.45.56:792][626]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CustomShaders/Materials/PP_GaussianBlur.PP_GaussianBlur]
+[2019.09.27-06.45.56:792][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomShaders/Materials/PP_GaussianBlur]
+[2019.09.27-06.45.57:614][626]LogSavePackage: Save=470.56ms
+[2019.09.27-06.45.57:614][626]LogSavePackage: Moving 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/PP_GaussianBlur_Auto33BEC495E4DAA23A93EF05C991AEF12B8.tmp' to 'D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/PP_GaussianBlur_Auto3.uasset'
+[2019.09.27-06.45.57:662][626]LogSavePackage: Display: Finished SavePackage D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Autosaves/Game/CustomShaders/Materials/PP_GaussianBlur_Auto3.uasset
+[2019.09.27-06.45.57:694][626]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomShaders/Meshes/crocodile/texture/Color] ([1] browsable assets)...
+[2019.09.27-06.45.57:705][626]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/CustomShaders/Meshes/crocodile/texture/Color.Color]
+[2019.09.27-06.45.57:705][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomShaders/Meshes/crocodile/texture/Color]
+[2019.09.27-06.45.57:744][626]LogFileManager: Error: Error writing to file: D:/Desktop/Senior Design/CustomShaders2/CustomShadersStarter/Saved/Color_Auto334F8804F4B7C82EA49BCB5B603514E34.tmp (There is not enough space on the disk.)
+[2019.09.27-06.45.57:747][626]LogWindows: Windows GetLastError: The operation completed successfully. (0)

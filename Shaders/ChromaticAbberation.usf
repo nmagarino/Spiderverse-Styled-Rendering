@@ -1,0 +1,22 @@
+static const int SceneTextureId = 14;
+float2 TexelSize = View.ViewSizeAndInvSize.zw;
+float2 UV = GetDefaultSceneTextureUV(Parameters, SceneTextureId);
+float3 PixelSum = float3(0, 0, 0);
+float WeightSum = 0;
+float3 color;
+
+// treat depth as 0 for close, 1 for far
+float3 depth = SceneTextureLookup(UV, 1, 0).rgb / 2000.0;
+
+float2 rOffset = float2(.003, .005) * depth.r;
+float2 gOffset = float2(.003, -.005) * depth.r;
+float2 bOffset = float2(-.003, -.005) * depth.r;
+
+float3 red = SceneTextureLookup(UV - rOffset, 14, 0).rgb;
+float3 green = SceneTextureLookup(UV - gOffset, 14, 0).rgb;
+float3 blue = SceneTextureLookup(UV - bOffset, 14, 0).rgb;
+
+
+
+
+return float3(red.r, green.g, blue.g);
