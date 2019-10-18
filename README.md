@@ -2,7 +2,7 @@
 
 ## Alpha Progress:
 
-So far two main features have been fully implemented -- Toon Shading and Chromatic Abberation!
+So far two main features have been fully implemented -- Toon Shading and Chromatic Abberation!  The Toon Shading has 5 bands of color and differentiates based on the original color's luminance.  The Chromatic Abberation scales to be more intense the further away the camera is from an object.
 
 ![](Images/shaderShot.PNG)
 
