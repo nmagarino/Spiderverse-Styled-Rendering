@@ -1,0 +1,58 @@
+float2 UV = GetDefaultSceneTextureUV(Parameters, 14);
+float3 finalCol = float3(0.0, 0.0, 0.0);
+float3 textureCol = SceneTextureLookup(UV, 14, 0).rgb;
+
+float freq = 120.0;
+
+// offset dots
+float2x2 transMat = { 0.707, -0.707, 0.707, 0.707 };
+UV = mul(UV, transMat);
+
+// find nearest dot to pixel
+float2 x = freq * (UV);
+float2 nearestDot = (2.0 * ((x) - floor(x))) - 1.0;
+
+float dist = length(nearestDot);
+
+// modify radius by intensity
+float intensity = (textureCol.r * 0.21) + (textureCol.g * 0.72) + (0.07 * textureCol.b);
+
+float dotRadius;
+
+if(intensity > 0.75) {
+	dotRadius = 0.0;
+}
+else {
+	dotRadius = sqrt(1.0 - intensity);
+}
+
+// for now, make dots a darker color
+float3 darkerCol = textureCol * .7;
+
+// effectively an if-else to select color
+finalCol = lerp(darkerCol, textureCol, step(dotRadius, dist));
+
+return finalCol;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return finalCol;

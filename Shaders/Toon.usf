@@ -14,14 +14,14 @@ float intensity = (actualCol.r * 0.21) + (actualCol.g * 0.72) + (0.07 * actualCo
 // Discretize
 if (intensity > 0.8)
 	color = float3(1.0, 1.0, 1.0) * diffuseCol;
-else if (intensity > 0.6)
-	color = float3(0.8, 0.8, 0.8) * diffuseCol;
+else if (intensity > 0.5)
+	color = float3(0.7, 0.7, 0.7) * diffuseCol;
 else if (intensity > 0.4)
-	color = float3(0.6, 0.6, 0.6) * diffuseCol;
-else if (intensity > 0.2)
-	color = float3(0.4, 0.4, 0.4) * diffuseCol;
-else
+	color = float3(0.5, 0.5, 0.5) * diffuseCol;
+else if (intensity > 0.05)
 	color = float3(0.2, 0.2, 0.2) * diffuseCol;
+else
+	color = float3(0.05, 0.05, 0.05) * diffuseCol;
 
 
 return color;
