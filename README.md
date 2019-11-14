@@ -27,3 +27,5 @@ Currently, outlining involves coloring in outlines when the dot product between 
 Ben-day Dot texturing is done by generating a grid of an adjustable size and drawing dots within the grid cells.  These dots shade the image with a darker tone from the original image to create the impression of the iconic comic book dots.  The dots' radii increase within darker tones, and eventually do not appear in the lightest tones of the image.  It also happens to pair very well with the outlining!
 ![](Images/bendaydots.PNG)
 ![](Images/bendaydots_close.PNG)
+
+<hr>
