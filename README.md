@@ -29,3 +29,5 @@ Ben-day Dot texturing is done by generating a grid of an adjustable size and dra
 ![](Images/bendaydots_close.PNG)
 
 <hr>
+
+## Resources
