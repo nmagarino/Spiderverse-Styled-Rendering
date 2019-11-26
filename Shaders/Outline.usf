@@ -7,18 +7,65 @@ float3 color;
 float3 camVec = CameraVec.rgb;
 float3 black = float3(0.5, 0.5, 0.5);
 
-float3 diffuseCol = SceneTextureLookup(UV, 2, 0).rgb;
 float3 actualCol = SceneTextureLookup(UV, 14, 0).rgb;
 float3 norm = SceneTextureLookup(UV, 8, 0).rgb;
 
-if (dot(camVec, norm) < .25)
-{
-	color = float3(0.0, 0.0, 0.0);
-}
-else 
-{
-	color = actualCol;
-}
+float Scale = 3.0;
+float DepthThreshold = 1.5;
+float NormThreshold = .4;
+float DepthNormalThreshold = 0.5;
+float DepthNormalThresholdScale = 7;
+
+float halfScaleFloor = floor(Scale * 0.5);
+float halfScaleCeil = ceil(Scale * 0.5);
+
+// Sample UVs around current in X shape
+float2 bottomLeftUV = UV - float2(1.0 / Resolution.x, 1 / Resolution.y) * halfScaleFloor;
+float2 topRightUV = UV + float2(1.0 / Resolution.x, 1 / Resolution.y) * halfScaleCeil;
+float2 bottomRightUV = UV + float2(1.0 / Resolution.x, 1 / Resolution.y) * halfScaleFloor;
+float2 topLeftUV = UV + float2(-1.0 / Resolution.x, 1 / Resolution.y) * halfScaleCeil;
+
+// Sample depth buffer
+float bottomLeftDepth = SceneTextureLookup(bottomLeftUV, 1, 0).r / 2000;
+float topRightDepth = SceneTextureLookup(topRightUV, 1, 0).r / 2000;
+float bottomRightDepth = SceneTextureLookup(bottomRightUV, 1, 0).r / 2000;
+float topLeftDepth = SceneTextureLookup(topLeftUV, 1, 0).r / 2000;
+
+// Sample normal buffer
+float3 bottomLeftNorm = SceneTextureLookup(bottomLeftUV, 8, 0).rgb;
+float3 topRightNorm = SceneTextureLookup(topRightUV, 8, 0).rgb;
+float3 bottomRightNorm = SceneTextureLookup(bottomRightUV, 8, 0).rgb;
+float3 topLeftNorm = SceneTextureLookup(topLeftUV, 8, 0).rgb;
+
+float depthFiniteDifference0 = topRightDepth - bottomLeftDepth;
+float depthFiniteDifference1 = bottomRightDepth - topRightDepth;
+
+// Roberts cross operator
+float edgeDepth = sqrt(pow(depthFiniteDifference0 , 2.0) + 
+				  pow(depthFiniteDifference1, 2.0)) * 100;
+
+// Modulate depth threshold
+float3 viewNormal = bottomLeftNorm * 2.0 - 1.0;
+float NdotV = 1 - dot(viewNormal, camVec);
+
+float normalThreshold01 = saturate((NdotV - DepthNormalThreshold) / (1.0 - DepthNormalThreshold));
+
+float normalThreshold = normalThreshold01 * DepthNormalThresholdScale + 1.0;
+
+float depthThreshold = DepthThreshold * bottomLeftDepth * normalThreshold;
+edgeDepth  = edgeDepth > DepthThreshold ? 1 : 0;
 
 
-return color;
+float edgeNormal = sqrt(dot(depthFiniteDifference0, depthFiniteDifference0 ) + 
+				  dot(depthFiniteDifference1, depthFiniteDifference1));
+
+edgeNormal = edgeNormal > NormThreshold ? 1 : 0;
+
+
+// combine normal and edge
+float edge = max(edgeDepth, edgeNormal);
+
+float4 edgeColor = float4(0.0, 0.0, 0.0, 1.0) * edge;
+
+// perform alpha blend
+return (edgeColor.rgb * edgeColor.a) + (actualCol * (1.0 - edgeColor.a));

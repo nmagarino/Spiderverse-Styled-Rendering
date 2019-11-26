@@ -2,17 +2,47 @@ float2 UV = GetDefaultSceneTextureUV(Parameters, 14);
 float3 finalCol = float3(0.0, 0.0, 0.0);
 float3 textureCol = SceneTextureLookup(UV, 14, 0).rgb;
 
-float freq = 120.0;
 
-// offset dots
-float2x2 transMat = { 0.707, -0.707, 0.707, 0.707 };
-UV = mul(UV, transMat);
 
-// find nearest dot to pixel
-float2 x = freq * (UV);
-float2 nearestDot = (2.0 * ((x) - floor(x))) - 1.0;
 
-float dist = length(nearestDot);
+float freq = 160.0;
+
+// adjust for screen
+UV.y /= (Resolution.x / Resolution.y);
+
+// Approximate conversion from rgb to cmyk
+float4 cmyk;
+cmyk.xyz = 1.0 - textureCol;
+cmyk.w = min(cmyk.x, min(cmyk.y, cmyk.z));
+cmyk.xyz -= cmyk.w;
+
+// offset dot 
+
+// separate by cmyk
+
+float2x2 kTransMat = { 0.707, -0.707, 0.707, 0.707 };
+float2 kUV = mul(UV, kTransMat);
+float2 kX = freq * (kUV);
+float2 KnearDot = ((2.0 * ((kX) - floor(kX)))) - (1.0);
+float k = step(0.0, sqrt(cmyk.w) - length(KnearDot));
+
+float2x2 cTransMat = { 0.966, -0.259, 0.259, 0.966 };
+float2 cUV = mul(UV, cTransMat);
+float2 cX = freq * (cUV);
+float2 CnearDot = (2.0 * ((cX) - floor(cX))) - 1.0;
+float c = step(0.0, sqrt(cmyk.x) - length(CnearDot));
+
+float2x2 mTransMat = { 0.966, 0.259, -0.259, 0.966 };
+float2 mUV = mul(UV, mTransMat);
+float2 mX = freq * (mUV);
+float2 MnearDot = (2.0 * ((mX) - floor(mX))) - 1.0;
+float m = step(0.0, sqrt(cmyk.y) - length(MnearDot)) * .5;
+
+float2 yX = freq * (UV);
+float2 YnearDot = (2.0 * ((yX) - floor(yX))) - 1.0;
+float y = step(0.0, sqrt(cmyk.z) - length(YnearDot));
+
+float3 toRgb = 1.0 - 0.9 * float3(c, m, y);
 
 // modify radius by intensity
 float intensity = (textureCol.r * 0.21) + (textureCol.g * 0.72) + (0.07 * textureCol.b);
@@ -30,9 +60,13 @@ else {
 float3 darkerCol = textureCol * .7;
 
 // effectively an if-else to select color
-finalCol = lerp(darkerCol, textureCol, step(dotRadius, dist));
+// finalCol = lerp(darkerCol, textureCol, step(dotRadius, dist));
+c *= 0.1;
+finalCol = lerp(textureCol, darkerCol, 0.85 * k + 0.3);
+k = 0.0;
+float3 printErr = lerp(toRgb, textureCol, 0.85 * k + 0.3);
 
-return finalCol;
+return finalCol * printErr * 1.2;
 
 
 
