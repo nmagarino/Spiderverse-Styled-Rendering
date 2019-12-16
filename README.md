@@ -30,6 +30,8 @@ Ben-day Dot texturing is done by generating a grid of an adjustable size and dra
 
 <hr>
 
+## Final Progress
+
 ## Resources
 - [Unreal Engine 4 Custom Shaders Tutorial](https://www.raywenderlich.com/57-unreal-engine-4-custom-shaders-tutorial)
 - [GLSL Toon Shading in Unity](https://en.wikibooks.org/wiki/GLSL_Programming/Unity/Toon_Shading)
