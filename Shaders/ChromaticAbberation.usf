@@ -4,19 +4,36 @@ float2 UV = GetDefaultSceneTextureUV(Parameters, SceneTextureId);
 float3 PixelSum = float3(0, 0, 0);
 float WeightSum = 0;
 float3 color;
+float3 camVec = CameraVec.rgb;
 
 // treat depth as 0 for close, 1 for far
 float3 depth = SceneTextureLookup(UV, 1, 0).rgb / 2000.0;
+float3 norm = SceneTextureLookup(UV, 8, 0).rgb;
 
-float2 rOffset = float2(.005, .007) * depth.r;
-float2 gOffset = float2(.005, -.007) * depth.r;
-float2 bOffset = float2(-.005, -.007) * depth.r;
+float dotProd = dot(camVec, norm);
+
+float2 rOffset = float2(.005, .007) * depth.r * 2.0;// * dotProd;
+float2 gOffset = float2(.005, -.007) * depth.r * 2.0;// * dotProd;
+float2 bOffset = float2(-.005, -.007) * depth.r * 2.0;// * dotProd;
+
+
+float3 left = SceneTextureLookup(UV - rOffset, 14, 0).rgb;
+float3 lower = SceneTextureLookup(UV - gOffset, 14, 0).rgb;
+float3 right = SceneTextureLookup(UV - bOffset, 14, 0).rgb;
+
+float left_i = (left.r * 0.21) + (left.g * 0.72) + (0.07 * left.b);
+float right_i= (right.r * 0.21) + (right.g * 0.72) + (0.07 * right.b);
+float lower_i= (lower.r * 0.21) + (lower.g * 0.72) + (0.07 * lower.b);
+float3 cyan = float3(0, 1.0, 1.0);
+float3 yellow = float3(1.0, 1.0, 0.0);
+float3 magenta = float3(1.0, 0, 1.0);
+
 
 float3 red = SceneTextureLookup(UV - rOffset, 14, 0).rgb;
-float3 green = SceneTextureLookup(UV - gOffset, 14, 0).rgb;
+float3 green = SceneTextureLookup(UV, 14, 0).rgb;
 float3 blue = SceneTextureLookup(UV - bOffset, 14, 0).rgb;
 
 
 
 
-return float3(red.r, green.g, blue.b);
+return 2.0 * (green * normalize(left_i * cyan + right_i * yellow + lower_i * magenta));
