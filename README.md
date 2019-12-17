@@ -38,10 +38,15 @@ Ben-Day dot bug where dots did not scale based on screen resolution was fixed, s
 
 Here is each filter applied in order:
 
+Default Render
 ![](Images/betaProcess1.PNG)
+Toon Shading
 ![](Images/betaProcess2.PNG)
+Ben-Day Dots
 ![](Images/betaProcess3.PNG)
+Chromatic Aberration
 ![](Images/betaProcess4.PNG)
+Outlining
 ![](Images/betaProcess5.PNG)
 
 <hr>
