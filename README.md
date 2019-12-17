@@ -28,9 +28,23 @@ Ben-day Dot texturing is done by generating a grid of an adjustable size and dra
 ![](Images/bendaydots.PNG)
 ![](Images/bendaydots_close.PNG)
 
-<hr>
-
 ## Final Progress
+
+![](Images/betaShot1.PNG)
+
+Outlining has been reworked to incorporate both the normal and depth buffer.  Neighboring pixels are sampled in an X shape around the current pixel of the screen texture.
+Chromatic Aberration was also edited to be a bit less intense, and scale better with distance.
+Ben-Day dot bug where dots did not scale based on screen resolution was fixed, so now dots are more uniformly circular.  Printing artifacts that separate dots by the screen texture's CMYK value are produced by offsetting the dots based on the color value.
+
+Here is each filter applied in order:
+
+![](Images/betaProcess1.PNG)
+![](Images/betaProcess2.PNG)
+![](Images/betaProcess3.PNG)
+![](Images/betaProcess4.PNG)
+![](Images/betaProcess5.PNG)
+
+<hr>
 
 ## Resources
 - [Unreal Engine 4 Custom Shaders Tutorial](https://www.raywenderlich.com/57-unreal-engine-4-custom-shaders-tutorial)
